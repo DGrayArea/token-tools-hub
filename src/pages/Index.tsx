@@ -75,7 +75,8 @@ const Index = () => {
             address: "0x0bF837AbF358EAA51026aB763b21b5d3d203839F",
             symbol: "USDT",
             decimals: 18,
-            image: "https://cryptologos.cc/logos/tether-usdt-logo.png?v=040",
+            image:
+              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkxFBoWGVFUHLQOxhMibuyrkzba7xAzjvyamnMYtb_SiH6Ee5UsTOvxg&s",
           },
         },
       });
