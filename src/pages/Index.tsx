@@ -69,7 +69,7 @@ const Index = () => {
       const wasAdded = await window.ethereum.request({
         method: "wallet_watchAsset",
         params: {
-          type: "BEP20",
+          type: "ERC20",
           // chainId: "0x38",
           options: {
             address: "0x0bF837AbF358EAA51026aB763b21b5d3d203839F",
